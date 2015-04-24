@@ -32,6 +32,7 @@ brief description of what it does.
 * [scrambo](https://github.com/nickcolley/scrambo) - Wrapper around jsss (not up-to-date with the regulations)
 * [roofpig](https://github.com/larspetrus/roofpig) - Puzzle visualization library
 * [stackmat.js](https://github.com/timhabermaas/stackmat.js) - Access stackmat data
+* [simian](https://github.com/justinj/cube-simian) - Heise-style cube simulator keyboard bindings helper
 
 #Ruby
 
