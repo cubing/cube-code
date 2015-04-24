@@ -33,6 +33,7 @@ brief description of what it does.
 * [roofpig](https://github.com/larspetrus/roofpig) - Puzzle visualization library
 * [stackmat.js](https://github.com/timhabermaas/stackmat.js) - Access stackmat data
 * [simian](https://github.com/justinj/cube-simian) - Heise-style cube simulator keyboard bindings helper
+* [gCube](https://github.com/molarmanful/gCube) - 3x3 Visualizer jQuery/HTML plugin
 
 #Ruby
 
