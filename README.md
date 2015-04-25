@@ -14,7 +14,8 @@ brief description of what it does.
 * [General](#general)
 * [Javascript](#javascript)
 * [Ruby](#ruby)
-* [C++](#c++)
+* [C++](#cpp)
+* [C#](#csharp)
 * [Java](#java)
 * [Clojure](#clojure)
 
@@ -40,9 +41,15 @@ brief description of what it does.
 * [cubeseer](https://github.com/justinj/cubeseer) - Diagram generator, but contains a cube representation
 * [RaMSDeL](https://github.com/justinj/ramsdel) - Random Move Scrambler Definition Language
 
-#C++
-
+C++
+===
+<a name="cpp"></a>
 * [ksolve+](https://github.com/cubing/ksolve) - General purpose puzzle solver
+
+C#
+==
+<a name="csharp"></a>
+* [CubeStates](https://github.com/MeepMoop/CubeStates) - 2x2 fixed corner representation
 
 #Java
 
