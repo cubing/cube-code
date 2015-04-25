@@ -5,7 +5,7 @@ Useful libraries and packages for writing speedcubing related software.
 ## I have a library to add to the list!
 
 Awesome!
-[Open a pull request](https://github.com/justinj/cube-code/edit/gh-pages/README.md)
+[Open a pull request](https://github.com/cubing/cube-code/edit/gh-pages/README.md)
 editing `README.md` adding a link to your library and a
 brief description of what it does.
 
