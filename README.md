@@ -19,11 +19,13 @@ brief description of what it does.
 * [Java](#java)
 * [Clojure](#clojure)
 
-#General
+General
+=======
 
 * [icons](https://github.com/cubing/icons) - Set of cubing related icons
 
-#Javascript
+Javascript
+==========
 
 * [cubid](https://github.com/justinj/cubid) - Cube representation
 * [jChester](https://github.com/jfly/jChester) - Time entry jQuery plugin
@@ -36,22 +38,24 @@ brief description of what it does.
 * [simian](https://github.com/justinj/cube-simian) - Heise-style cube simulator keyboard bindings helper
 * [gCube](https://github.com/molarmanful/gCube) - 3x3 Visualizer jQuery/HTML plugin
 
-#Ruby
+Ruby
+====
 
 * [cubeseer](https://github.com/justinj/cubeseer) - Diagram generator, but contains a cube representation
 * [RaMSDeL](https://github.com/justinj/ramsdel) - Random Move Scrambler Definition Language
 
-C++
+C++ <a name="cpp"></a>
 ===
-<a name="cpp"></a>
+
 * [ksolve+](https://github.com/cubing/ksolve) - General purpose puzzle solver
 
-C#
+C# <a name="csharp"></a>
 ==
-<a name="csharp"></a>
+
 * [CubeStates](https://github.com/MeepMoop/CubeStates) - 2x2 fixed corner representation
 
-#Java
+Java
+====
 
 * [TNoodle](https://github.com/cubing/tnoodle) - Official scramble generators
 * [min2phase](https://github.com/cs0x7f/min2phase) - Fast 3x3 solver, used in TNoodle
@@ -60,6 +64,7 @@ C#
 * [sq12phase](https://github.com/cs0x7f/sq12phase) - Square-1 solver
 * [clock](https://github.com/cs0x7f/clock) - Clock solver
 
-#Clojure
+Clojure
+=======
 
 * [scramblyzer](https://github.com/justinj/scramblyzer) - Tool for analyzing scrambles, contains a cube representation
