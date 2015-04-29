@@ -35,6 +35,7 @@ brief description of what it does.
 * [stackmat.js](https://github.com/timhabermaas/stackmat.js) - Access stackmat data
 * [simian](https://github.com/justinj/cube-simian) - Heise-style cube simulator keyboard bindings helper
 * [gCube](https://github.com/molarmanful/gCube) - 3x3 Visualizer jQuery/HTML plugin
+* [AlgMe](https://github.com/molarmanful/AlgMe) - Algorithm playback bookmarklet that relies on alg.cubing.net
 
 # Ruby
 
