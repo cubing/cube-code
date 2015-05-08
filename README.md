@@ -36,6 +36,7 @@ brief description of what it does.
 * [simian](https://github.com/justinj/cube-simian) - Heise-style cube simulator keyboard bindings helper
 * [gCube](https://github.com/molarmanful/gCube) - 3x3 Visualizer jQuery/HTML plugin
 * [algurl](https://github.com/justinj/algurl) - Generate alg.cubing.net URLs
+* [TPS](https://github.com/molarmanful/tps) - Javascript cube timer framework
 
 # Ruby
 
