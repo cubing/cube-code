@@ -37,7 +37,7 @@ brief description of what it does.
 * [gCube](https://github.com/molarmanful/gCube) - 3x3 Visualizer jQuery/HTML plugin
 * [algurl](https://github.com/justinj/algurl) - Generate alg.cubing.net URLs
 * [TPS](https://github.com/molarmanful/tps) - Javascript cube timer framework
-* [AnimCubeJS](https://github.com/molarmanful/AnimCubeJS) - Port of AnimCube Java Applet
+* [AnimCubeJS](https://github.com/cubing/AnimCubeJS) - Port of AnimCube Java Applet
 
 # Ruby
 
