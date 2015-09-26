@@ -38,6 +38,7 @@ brief description of what it does.
 * [algurl](https://github.com/justinj/algurl) - Generate alg.cubing.net URLs
 * [TPS](https://github.com/molarmanful/tps) - Javascript cube timer framework
 * [AnimCubeJS](https://github.com/cubing/AnimCubeJS) - Port of AnimCube Java Applet
+* [which-pll](https://github.com/justinj/which-pll) - Determine which pll an alg solves
 
 # Ruby
 
